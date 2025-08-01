@@ -16,7 +16,7 @@ A full-stack intern portal built as part of a Full Stack Developer Internship Ta
 ## 📸 Live URLs
 
 - 🌐 [Frontend Live](https://intern-portal-seven.vercel.app/)  
-- 🔗 [Backend API](https://your-backend.onrender.com)  
+- 🔗 [Backend API](https://intern-portal-2-y238.onrender.com/)
 
 ---
 
