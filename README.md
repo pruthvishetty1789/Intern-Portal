@@ -60,6 +60,7 @@ cd ../client
 npm install
 npm start
 # Runs on http://localhost:3000
+
 ---
 # Login Credential
 -Email: pruthvi@gmail.com
