@@ -34,6 +34,8 @@ A full-stack intern portal built as part of a Full Stack Developer Internship Ta
 
 ### 🧩 UI/UX
 - 🔐 **Login Page**: Dummy intern login  
+  - **Email**: `pruthvi@gmail.com`  
+  - **Password**: `123456`  
 - 📊 **Dashboard**: Personalized intern info with animations  
 - 🏆 **Leaderboard**: Intern rankings with donation totals  
 - 🧭 **Navigation**: Animated navbar with active tab  
@@ -53,15 +55,10 @@ cd intern-portal
 cd server
 npm install
 npm start
-# Runs on http://localhost:5000
+# Server runs at http://localhost:5000
 
 # 3. Open a new terminal & start the frontend
 cd ../client
 npm install
 npm start
-# Runs on http://localhost:3000
-
----
-# Login Credential
--Email: pruthvi@gmail.com
--Password : 123456
+# Frontend runs at http://localhost:3000
