@@ -6,10 +6,10 @@ A full-stack intern portal built as part of a Full Stack Developer Internship Ta
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Styled Components, React Icons, Framer Motion  
-- **Backend:** Node.js, Express  
-- **Authentication:** Dummy login (no real signup)  
-- **Deployment:** Vercel (Frontend), Render (Backend)  
+- **Frontend**: React, Styled Components, React Icons, Framer Motion  
+- **Backend**: Node.js, Express  
+- **Authentication**: Dummy login (no real signup)  
+- **Deployment**: Vercel (Frontend), Render (Backend)  
 
 ---
 
@@ -33,24 +33,30 @@ A full-stack intern portal built as part of a Full Stack Developer Internship Ta
 - Highlights current user  
 
 ### 🧩 UI/UX
-- 🔐 **Login Page:** Dummy intern login  
-- 📊 **Dashboard:** Personalized intern info with animations  
-- 🏆 **Leaderboard:** Intern rankings with donation totals  
-- 🧭 **Navigation:** Animated navbar with active tab  
-- 🦶 **Footer:** Fixed footer with animated social icons  
-- 🎨 **Creative Design:** Fully responsive layout  
+- 🔐 **Login Page**: Dummy intern login  
+- 📊 **Dashboard**: Personalized intern info with animations  
+- 🏆 **Leaderboard**: Intern rankings with donation totals  
+- 🧭 **Navigation**: Animated navbar with active tab  
+- 🦶 **Footer**: Fixed footer with animated social icons  
+- 🎨 **Creative Design**: Fully responsive layout  
 
 ---
 
 ## 🚦 Run Locally
 
-### 📁 1. Clone the repo
-
 ```bash
+# 1. Clone the repository
 git clone https://github.com/pruthvishetty1789/intern-portal.git
 cd intern-portal
 
-### 🖥️ 2. Start Backend
+# 2. Start the backend
 cd server
 npm install
 npm start
+# Runs on http://localhost:5000
+
+# 3. Open a new terminal & start the frontend
+cd ../client
+npm install
+npm start
+# Runs on http://localhost:3000
