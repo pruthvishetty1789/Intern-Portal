@@ -61,6 +61,6 @@ npm install
 npm start
 # Runs on http://localhost:3000
 ---
-## Login Credential
-Email: pruthvi@gmail.com
-Password : 123456
+# Login Credential
+-Email: pruthvi@gmail.com
+-Password : 123456
