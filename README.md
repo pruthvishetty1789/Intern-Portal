@@ -1,49 +1,51 @@
-# 🚀 Intern Portal – Fundraising Dashboard
+🚀 Intern Portal – Fundraising Dashboard
+A full-stack Intern Portal built as part of a Full Stack Developer Internship Task. This project features a dummy intern login, personalized dashboard, donation tracking, and leaderboard.
 
-A full-stack intern portal built as part of a Full Stack Developer Internship Task. This project includes intern login, dashboard, and leaderboard with referral tracking and donation management.
+🛠️ Tech Stack
+Frontend: React, Styled Components, React Icons, Framer Motion
 
-## 🛠️ Tech Stack
+Backend: Node.js, Express
 
-- **Frontend**: React, Styled Components, React Icons, Framer-motion
-- **Backend**: Node.js, Express 
-- **Authentication**: Dummy login (no real signup)
-- **Deployment**:  Vercel
+Authentication: Dummy login (JWT-based)
 
----
+Database: JSON-based or in-memory (no real DB)
 
-## 📸 Live URL:
+Deployment: Vercel (frontend), Render (backend)
 
-### 🧑‍💼 Intern Dashboard
-- Displays intern name
-- Referral code
-- Total donations raised
-- Static rewards section
+🔗 Live Links
+Frontend (React): Vercel URL
 
-### 📊 Leaderboard
-- Ranks all interns by donations raised
+Backend (API): Render URL
 
----
+✨ Features
+🧑‍💼 Intern Dashboard
+Displays intern name
 
-## ✨ Features
+Shows referral code
 
-- 🔐 **Login Page**: Dummy intern login
-- 📊 **Dashboard**: Personalized intern info and referral code
-- 🏆 **Leaderboard**: Intern rankings with donation totals
-- 🧭 **Navigation**: Clean navbar with transitions and active tab
-- 🦶 **Footer**: Fixed footer with animated social icons and links
-- 🎨 **Creative Design**: Fully responsive with modern animations
+Total donations raised
 
----
+Static rewards section
 
-## 🚦 Run Locally
+📊 Leaderboard
+Intern rankings based on donations
 
-```bash
-# 1. Clone the repo
-git clone https://github.com/pruthvishetty1789/intern-portal.git
-cd intern-portal
+Highlights current user
 
-# 2. Install dependencies
-npm install
+Smooth animations and transitions
 
-# 3. Run the app
-npm start
+💡 Other Highlights
+🔐 Dummy login page with test credentials
+
+🧭 Navbar with active tab indicator
+
+🦶 Fixed footer with animated social icons
+
+🎨 Responsive UI with modern animations
+
+🧪 Test Credentials
+makefile
+Copy
+Edit
+Email: pruthvi@gmail.com
+Password: 123456
